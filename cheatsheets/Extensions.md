@@ -40,10 +40,6 @@
 - Extension ID: VisualStudioExptTeam.intellicode-api-usage-examples
 - Description: Provides API usage examples for IntelliCode.
 
-## isort
-- Extension ID: ms-python.isort
-- Description: Import sorting extension for Visual Studio Code using isort.
-
 ## JavaScript (ES6) code snippets
 - Extension ID: xabikos.JavaScriptSnippets
 - Description: Code shortcuts for JavaScript in ES6 syntax.
@@ -67,34 +63,12 @@
 ## Prettier - Code formatter
 - Extension ID: esbenp.prettier-vscode
 - Description: Makes code easier to read by automatically formatting it.
+- [Steps](https://www.programsbuzz.com/article/format-code-prettier-visual-studio-code)
+- [Video](https://www.youtube.com/watch?v=DqfQ4DPnRqI&ab_channel=WebDevSimplified)
 
 ## Print
 - Extension ID: pdconsec.vscode-print
 - Description: Allows you to print documents directly from VS Code.
-
-## Python
-- Extension ID: ms-python.python
-- Description: Python extension for Visual Studio Code.
-
-## Python Environment Manager
-- Extension ID: donjayamanne.python-environment-manager
-- Description: A Visual Studio Code extension that provides the ability to view and manage all of your Python environments & packages from a single place.
-
-## Python Extension Pack
-- Extension ID: donjayamanne.python-extension-pack
-- Description: Popular Visual Studio Code extensions for Python.
-
-## Python Extended
-- Extension ID: tushortz.python-extended-snippets
-- Description: Python Extended is a VS Code snippet that makes it easy to write codes in Python by providing completion options along with all arguments.
-
-## Python Indent
-- Extension ID: KevinRose.vsc-python-indent
-- Description: Corrects Python indentation.
-
-## Pylance
-- Extension ID: ms-python.vscode-pylance
-- Description: Fast, feature-rich language support for Python.
 
 ## React-Native/React/Redux snippets for es6/es7
 - Extension ID: EQuimper.react-native-react-redux
@@ -103,10 +77,6 @@
 ## React/Redux/react-router Snippets
 - Extension ID: discountry.react-redux-react-router-snippets
 - Description: Provides snippets to help you write React, Redux, and react-router code faster.
-
-## Thunder Client
-- Extension ID: rangav.vscode-thunder-client
-- Description: Used for testing routes.
 
 # Chrome Extensions
 
@@ -127,9 +97,6 @@
 
 ## React Developer Tools
 - Description: A set of debugging tools for React applications.
-
-## Redux DevTools
-- Description: DevTools for debugging Redux state changes.
 
 ## Web Developer
 - Description: Provides various web development tools and utilities.

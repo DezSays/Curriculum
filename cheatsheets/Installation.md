@@ -32,20 +32,8 @@
   nvm use --lts
   ```
 
-### 6. Install Python
-- Official Python Documentation: [https://www.python.org/](https://www.python.org/)
-- Python comes pre-installed; use Homebrew for a different version:
-  ```bash
-  brew install python
-  ```
-
-### 7. Install Sequelize and PSQL
-- Official Sequelize Documentation: [https://sequelize.org/](https://sequelize.org/)
+### 6. Install PSQL
 - Official PostgreSQL Documentation: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
-- Install Sequelize globally:
-  ```bash
-  npm install -g sequelize-cli
-  ```
 - Install Postgres using Homebrew:
   ```bash
   brew install postgresql
@@ -62,7 +50,6 @@
 - Open VS Code.
 - Press ``Ctrl + ` ``backtick (`) `` to open the integrated terminal.
 
-
 ### 3. Install NVM for Windows
 - Official NVM-Windows Repository: [https://github.com/coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows)
 - Download the installer from the releases page: [https://github.com/coreybutler/nvm-windows/releases](https://github.com/coreybutler/nvm-windows/releases)
@@ -76,11 +63,7 @@
   nvm use --lts
   ```
 
-### 5. Install Python
-- Official Python Documentation: [https://www.python.org/](https://www.python.org/)
-- Download the Windows installer from the Python website and follow the installation instructions.
-
-### 6. Install Sequelize and PSQL
+### 5. Install Sequelize and PSQL
 - Official Sequelize Documentation: [https://sequelize.org/](https://sequelize.org/)
 - Official PostgreSQL Documentation: [https://www.postgresql.org/docs/](https://www.postgresql.org/docs/)
 - Install Sequelize globally:

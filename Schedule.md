@@ -154,8 +154,8 @@
         - React
         - [React Bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
     ** Friday **
-        - [React Hooks](./cheatsheets/React_Hooks.md)
-        - [Vercel Frontend Deployment Technique](./cheatsheets/Vercel_Frontend_Deployment_Steps.pdf)
+        - [React Hooks](./resources/javascript/react/React_Hooks.md)
+        - [Vercel Frontend Deployment Technique](./resources/deployment/vercel/Vercel_Frontend_Deployment_Steps.pdf)
 
 ## Week 10
     ** Monday **

@@ -26,21 +26,21 @@
 
 ## Week 2
     ** Monday **
-        - Recap/Review of Week 01 (TA will add recap_week_#.md every week)
-        - [GitHub Pages Deployment](./cheatsheets/GitHub_Pages_Deployment_Steps.pdf)
-        - [Media Queries](./cheatsheets/Media_Queries_Cheatsheet.md)
+        - [Recap/Review of Week 01](./resources/ta/Recap_Week_#_Template.md)
+        - [GitHub Pages Deployment](./resources/deployment/GitHub_Pages_Deployment_Steps.pdf)
+        - [Media Queries](./resources/css/Media_Queries_Cheatsheet.md)
         - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
     ** Tuesday ** 
-        - [JavaScript Intro](./cheatsheets/JavaScript_Complete_Cheatsheet.pdf)
-        - [Conditional Statements](./cheatsheets/JavaScript_Conditional_Statements.md)
+        - [JavaScript Intro](./resources/javascript/JavaScript_Complete_Cheatsheet.pdf)
+        - [Conditional Statements](./resources/javascript/basics/JavaScript_Conditional_Statements.md)
     ** Wednesday ** 
         - Conditional Statements
-        - [Loops](./cheatsheets/JavaScript_For_Loops.md)
+        - [Loops](./resources/javascript/basics/JavaScript_For_Loops.md)
     ** Thursday **
         - Loops
     ** Friday **
         - Loops
-        - [Array Methods](./cheatsheets/JavaScript_Array_Methods.md)
+        - [Array Methods](./resources/javascript/basics/JavaScript_Array_Methods.md)
 
 ## Week 3
     ** Monday **

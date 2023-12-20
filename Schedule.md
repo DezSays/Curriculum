@@ -97,12 +97,12 @@
     ** Tuesday ** 
         - [NPM](https://www.npmjs.com/)
         - [Node Intro](https://www.npmjs.com/package/cowsay)
-        - [Server 101](./cheatsheets//Server_101.drawio)
-        - [Express](./cheatsheets/Express_Basic_Setup.md)
+        - [Server 101](./resources/javascript/server/Server_101.drawio)
+        - [Express](./resources/javascript/server/Express_Basic_Setup.md)
     ** Wednesday ** 
         - Express
-        - [Vercel Backend Deployment Technique](./cheatsheets/Vercel_Server_Deployment_Steps.pdf)
-        - [Vercel Backend JSON](./cheatsheets/vercel.json)
+        - [Vercel Backend Deployment Technique](./resources/deployment/vercel/Vercel_Server_Deployment_Steps.pdf)
+        - [Vercel Backend JSON](./resources/deployment/vercel/vercel.json)
     ** Thursday **
         - Express
     ** Friday **

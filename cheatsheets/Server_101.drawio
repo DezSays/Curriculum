@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="QnAA2nsCuYekW3QBslh7" name="Page-1">
-        <mxGraphModel dx="816" dy="304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="393" dy="173" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -79,7 +79,7 @@
                 <mxCell id="YvuDV7tw61LsSK_M6kB8-27" value="GUI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="188" y="192" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="rPG1mqdKMG4rrso_aYo4-1" value="Action: Get&lt;br&gt;Body: JSON&lt;br&gt;Headers: type of body that you are sending(typically JSON)&lt;br&gt;&lt;br&gt;Auth: (usually your key" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="rPG1mqdKMG4rrso_aYo4-1" value="Action: Get&lt;br&gt;Body: JSON&lt;br&gt;Headers: type of body that you are sending(typically JSON)&lt;br&gt;&lt;br&gt;Auth: (usually your key)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="524" y="652" width="290" height="127" as="geometry"/>
                 </mxCell>
                 <mxCell id="rPG1mqdKMG4rrso_aYo4-2" value="header: API KEY&lt;br&gt;&lt;br&gt;google.com?location=Atlanta,GA" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">

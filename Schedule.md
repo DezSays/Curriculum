@@ -76,16 +76,16 @@
     ** Tuesday ** 
         - * PRESENTATIONS  *
     ** Wednesday ** 
-        - [SQL Introduction](./cheatsheets/SQL_Basics.md)
-        - [SQL Homework](./cheatsheets/SQL_Homework_01.sql)
-        - PSQL(link)
+        - [SQL Introduction](./resources/database/SQL_Basics.md)
+        - [SQL Homework](./resources/database/SQL_Homework_01.sql)
+        - [PSQL](./resources/database/PSQL_Basic_Commands.md)
     ** Thursday **
         - SQL Homework Review
-        - [SQL Homework](./cheatsheets/SQL_Homework_02.sql)
+        - [SQL Homework](./resources/database/SQL_Homework_02.sql)
         - PSQL
     ** Friday **
-        - [SQL Relationships](./cheatsheets/SQL_Relationships_01.md)
-        - [SQL Relationships](./cheatsheets/SQL_Relationships_02.sql)
+        - [SQL Relationships](./resources/database/SQL_Relationships_01.md)
+        - [SQL Relationships](./resources/database/SQL_Relationships_02.sql)
         - PSQL
         - [ElephantSQL](https://www.elephantsql.com/docs/index.html)
 
@@ -111,7 +111,7 @@
 ## Week 7
     ** Monday **
         - Express
-        - [PGP](./cheatsheets/PG-Promise_Express_Setup.md)
+        - [PGP](./resources/database/PG-Promise_Express_Setup.md)
     ** Tuesday **
         - Express
         - PGP

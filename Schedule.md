@@ -54,19 +54,24 @@
 - Loops
 - [Array Methods](./resources/javascript/basics/JavaScript_Array_Methods.md)
 
-## Week 3
-    ** Monday **
-        - [Functions](./resources/javascript/basics/JavaScript_Functions.md)
-    ** Tuesday ** 
-        - Functions
-    ** Wednesday **
-        - Functions
-        - DOM 101
-        - [DOM Homework](./resources/javascript/DOM/DOM_Homework_01.md)
-    ** Thursday **
-        - DOM
-    ** Friday **
-        - [DOM Review](./resources/javascript/DOM/DOM_Review.md)
+# Week 3
+
+### Monday
+- [Functions](./resources/javascript/basics/JavaScript_Functions.md)
+
+### Tuesday 
+- Functions
+
+### Wednesday
+- Functions
+- DOM 101
+- [DOM Homework](./resources/javascript/DOM/DOM_Homework_01.md)
+
+### Thursday
+- DOM
+
+### Friday
+- [DOM Review](./resources/javascript/DOM/DOM_Review.md)
 
 ## Week 4
     ** Monday **

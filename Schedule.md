@@ -131,12 +131,12 @@
 
 ## Week 8
     ** Monday **
-        - [HTML Full Stack Connection](./cheatsheets/Full_Stack_Connections.md) 
+        - [HTML Full Stack Connection](./resources/javascript/server/Full_Stack_Connections.md) 
     ** Tuesday ** 
         - HTML Full Stack Connection 
     ** Wednesday ** 
         - HTML Full Stack Connection 
-        - [Render Backend Deployment Technique](./cheatsheets/Render)
+        - [Render Backend Deployment Technique](./resources/deployment/render/)
     ** Thursday **
         - * BACK END PROJECT * 
     ** Friday **

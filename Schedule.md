@@ -1,28 +1,35 @@
+# Weekly Learning Plan
+
 ## Week 1
-    ** Monday **
-        - [Installation Setup](./resources/setup/Installation.md) 
-        - [Extensions](./resources/setup/Extensions.md) 
-        - [CLI](./resources/other/Unix_CLI_Cheatsheet.pdf)
-        - Folder Structure Setup
-        - [Git](./resources/git/Git_Cheatsheet.pdf)
-    ** Tuesday ** 
-        - [Git](./resources/git/Git_Lifecycle.drawio)
-        - [Git](./resources/git/Git_Commands.md)
-        - [Markdown syntax](./resources/other/Markdown_Cheatsheet.pdf)
-        - [GitHub SSH Connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
-        - [GitHub SSH Adding to GitHub Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
-        - [GitHub Profile Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-    ** Wednesday ** 
-        - [Git](./resources/git/Git_Flow.drawio)
-        - [HTML](./resources/html/HTML_Cheatsheet.pdf)
-        - [CSS 101](./resources/css/CSS_101_Cheatsheet.pdf)
-    ** Thursday **
-        - [CSS Grid](./resources/css/CSS_Grid_Cheatsheet.pdf)
-        - [CSS Diner](https://flukeout.github.io/)
-    ** Friday **
-        - [Flexbox](./resources/css/CSS_Flexbox_Cheatsheet.pdf)
-        - [Flexbox Froggy](https://flexboxfroggy.com/)
-        - [Flexbox Defense](http://www.flexboxdefense.com/)
+
+### Monday
+- [Installation Setup](./resources/setup/Installation.md) 
+- [Extensions](./resources/setup/Extensions.md) 
+- [CLI](./resources/other/Unix_CLI_Cheatsheet.pdf)
+- Folder Structure Setup
+- [Git](./resources/git/Git_Cheatsheet.pdf)
+
+### Tuesday
+- [Git Lifecycle](./resources/git/Git_Lifecycle.drawio)
+- [Git Commands](./resources/git/Git_Commands.md)
+- [Markdown Syntax](./resources/other/Markdown_Cheatsheet.pdf)
+- [GitHub SSH Connection](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+- [GitHub SSH Adding to GitHub Account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+- [GitHub Profile Readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+
+### Wednesday
+- [Git Flow](./resources/git/Git_Flow.drawio)
+- [HTML](./resources/html/HTML_Cheatsheet.pdf)
+- [CSS 101](./resources/css/CSS_101_Cheatsheet.pdf)
+
+### Thursday
+- [CSS Grid](./resources/css/CSS_Grid_Cheatsheet.pdf)
+- [CSS Diner](https://flukeout.github.io/)
+
+### Friday
+- [Flexbox](./resources/css/CSS_Flexbox_Cheatsheet.pdf)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Defense](http://www.flexboxdefense.com/)
 
 ## Week 2
     ** Monday **

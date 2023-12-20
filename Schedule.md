@@ -127,7 +127,7 @@
     ** Friday **
         - Express
         - PGP
-        - [bcrypt](./cheatsheets/Bcrypt_Setup.md)
+        - [bcrypt](./resources/javascript/server/Bcrypt_Setup.md)
 
 ## Week 8
     ** Monday **

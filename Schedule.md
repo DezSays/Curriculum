@@ -44,27 +44,27 @@
 
 ## Week 3
     ** Monday **
-        - Functions
+        - [Functions](./resources/javascript/basics/JavaScript_Functions.md)
     ** Tuesday ** 
         - Functions
     ** Wednesday **
         - Functions
         - DOM 101
-        - [DOM Homework](./cheatsheets/DOM_Homework_01.md)
+        - [DOM Homework](./resources/javascript/DOM/DOM_Homework_01.md)
     ** Thursday **
         - DOM
     ** Friday **
-        - [DOM Review](./cheatsheets/DOM_Review.md)
+        - [DOM Review](./resources/javascript/DOM/DOM_Review.md)
 
 ## Week 4
     ** Monday **
-        - [API](./cheatsheets/API.md)
-        - [Fetch](./cheatsheets/JavaScript_Fetch.md)
+        - [API](./resources/javascript/api/API.md)
+        - [Fetch](./resources/javascript/api/JavaScript_Fetch.md)
     ** Tuesday **
         - API 
     ** Wednesday ** 
         - [Jira](https://www.atlassian.com/software/jira/guides/getting-started/basics#step-1-create-a-project)
-        - [Netlify Deployment Technique](./cheatsheets/Netlify_Deployment_Steps.pdf)
+        - [Netlify Deployment Technique](./resources/deployment/Netlify_Deployment_Steps.pdf)
     ** Thursday **
         - * FRONT END PROJECT *
     ** Friday **

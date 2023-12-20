@@ -165,7 +165,7 @@
     ** Wednesday ** 
         - React
     ** Thursday **
-        - [useContext](./cheatsheets/useContext_Explained.md)
+        - [useContext](./resources/javascript/react/useContext_Explained.md)
     ** Friday **
         - useContext
 

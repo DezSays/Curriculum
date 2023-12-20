@@ -187,7 +187,7 @@
     ** Tuesday ** 
         - * PRESENTATIONS * 
     ** Wednesday ** 
-        - [* OPEN WORK DAYS](./cheatsheets/Open_Work_Days.md)
+        - [* OPEN WORK DAYS](./resources/other/Open_Work_Days.md)
     ** Thursday **
         - * OPEN WORK DAYS *
     ** Friday **

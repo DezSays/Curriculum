@@ -31,23 +31,28 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Flexbox Defense](http://www.flexboxdefense.com/)
 
-## Week 2
-    ** Monday **
-        - [Recap/Review of Week 01](./resources/ta/Recap_Week_#_Template.md)
-        - [GitHub Pages Deployment](./resources/deployment/GitHub_Pages_Deployment_Steps.pdf)
-        - [Media Queries](./resources/css/Media_Queries_Cheatsheet.md)
-        - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-    ** Tuesday ** 
-        - [JavaScript Intro](./resources/javascript/JavaScript_Complete_Cheatsheet.pdf)
-        - [Conditional Statements](./resources/javascript/basics/JavaScript_Conditional_Statements.md)
-    ** Wednesday ** 
-        - Conditional Statements
-        - [Loops](./resources/javascript/basics/JavaScript_For_Loops.md)
-    ** Thursday **
-        - Loops
-    ** Friday **
-        - Loops
-        - [Array Methods](./resources/javascript/basics/JavaScript_Array_Methods.md)
+# Week 2
+
+### Monday
+- [Recap/Review of Week 01](./resources/ta/Recap_Week_#_Template.md)
+- [GitHub Pages Deployment](./resources/deployment/GitHub_Pages_Deployment_Steps.pdf)
+- [Media Queries](./resources/css/Media_Queries_Cheatsheet.md)
+- [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+
+### Tuesday
+- [JavaScript Intro](./resources/javascript/JavaScript_Complete_Cheatsheet.pdf)
+- [Conditional Statements](./resources/javascript/basics/JavaScript_Conditional_Statements.md)
+
+### Wednesday
+- Conditional Statements
+- [Loops](./resources/javascript/basics/JavaScript_For_Loops.md)
+
+### Thursday
+- Loops
+
+### Friday
+- Loops
+- [Array Methods](./resources/javascript/basics/JavaScript_Array_Methods.md)
 
 ## Week 3
     ** Monday **
